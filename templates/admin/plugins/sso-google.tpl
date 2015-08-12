@@ -16,7 +16,7 @@
 		</p>
 		<input type="text" name="domainname" title="Domain Name" class="form-control" placeholder="Your Domain Name">
 		<p>
-			Please input your domain name,like"https://bbs.domainname.com".
+			Please input your domain name,like"https://bbs.domainname.com". 
 		</p>
 	</div>
 </form>
