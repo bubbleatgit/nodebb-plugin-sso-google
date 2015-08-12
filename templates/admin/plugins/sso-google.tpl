@@ -14,6 +14,10 @@
 		<p class="help-block">
 			The appropriate "Redirect URI" is your NodeBB's URL with `/auth/google/callback` appended to it.
 		</p>
+		<input type="text" name="domainname" title="Domain Name" class="form-control" placeholder="Your Domain Name">
+		<p>
+			Please input your domain name,like"https://bbs.domainname.com".
+		</p>
 	</div>
 </form>
 
